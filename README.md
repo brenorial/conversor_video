@@ -56,10 +56,3 @@ Ao concluir a conversão, a interface mostra:
 
 - **Progresso**: De 0% a 100%, dependendo da quantidade de quadros processados.
 - **Mensagem de Status**: Se a conversão foi bem-sucedida ou se ocorreu um erro durante o processo.
-
----
-
-### Desenvolvido por:
-**Rial**
-```
-
